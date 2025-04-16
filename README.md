@@ -9,11 +9,14 @@ PURPOSE OF SOFTWARE:
         
 FILES:
         README.md: you are here
+        
         matrix.cpp: contains class Matrix with functions to perform operations listed above, and main includes the code to execute the test program
+        
         matrix.c: contains functions to perform operations listed above, and main includes the code to execute the test program
         
 BUILD INSTRUCTIONS:
         The test program equation is already set up in main for both files
+        
         If modifying that, matrices must be 1d arrays with each row listed in full (ex. R1C1 R1C2 R1C3 R2C1 R2C2 R2C3 for a 2x3 matrix)
         
 TESTING METHODOLOGY:
